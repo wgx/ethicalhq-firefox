@@ -12,7 +12,7 @@ if (curHr < 12) {
 }
 
 
-// Dhow the randomised content
+// Show the randomised content
 
 chrome.storage.local.get(['data'], storeData => {
     let index = Math.floor(Math.random() * storeData.data.length);
@@ -20,6 +20,7 @@ chrome.storage.local.get(['data'], storeData => {
     document.getElementById('productName').innerHTML = storeData.data[index][0];
     document.getElementById('productURL').href = storeData.data[index][1];
     document.getElementById('productDescription').innerHTML = storeData.data[index][2];
+    document.getElementById('productCategory').innerHTML = storeData.data[index][3];
 });
 
 

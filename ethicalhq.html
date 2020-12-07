@@ -17,6 +17,15 @@
     border-radius: 3px;
     color: white;
 }
+.badge {
+    font-size: 0.66em;
+    background: darkgray;
+    padding: 5px;
+    border-radius: 5px;
+    color: white;
+    float: right;
+    margin-top: -25px;
+}
 ul {
     list-style: none;
     padding-left: 0px;
@@ -46,6 +55,16 @@ body {
     padding: 5px;
     border-radius: 3px;
     color: #eee;
+    }
+
+    .badge {
+    font-size: 0.66em;
+    background: darkgray;
+    padding: 5px;
+    border-radius: 5px;
+    color: white;
+    float: right;
+    margin-top: -25px;
     }
 
     html {
@@ -90,6 +109,7 @@ body {
     <section>
         <p class="pill">Ethical products</p>
         <a href="#" id="productURL"><h3 id="productName"></h3></a>
+        <span id="productCategory" class="badge"></span>
         <p id="productDescription"></p>
     </section>
 
