@@ -1,5 +1,7 @@
 # EthicalHQ Add-on for Firefox
 
+Install from Firefox Add-ons: 
+
 An ethical alternative product every time you open a new tab.
 
 ## Dependencies
