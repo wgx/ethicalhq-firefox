@@ -1,6 +1,6 @@
 # EthicalHQ Add-on for Firefox
 
-Install from Firefox Add-ons: 
+Install from Firefox Add-ons: [https://addons.mozilla.org/en-GB/firefox/addon/ethical-product-alternatives/](https://addons.mozilla.org/en-GB/firefox/addon/ethical-product-alternatives/)
 
 An ethical alternative product every time you open a new tab.
 
