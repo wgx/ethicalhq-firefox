@@ -1,4 +1,3 @@
-Mailfence, https://mailfence.com, One of the world's most secure Gmail Alternatives,Email services
 1 Million Women,https://1millionwomen.com.au/,A global movement of women building a lifestyle revolution to fight the climate crisis.,Organisations
 5Gyres,https://5gyres.org/,"Empowering action against plastic pollution through science, education, and adventure.",Organisations
 7-Zip,https://7-zip.org,A file archiver with a high compression ratio.,Storage
@@ -271,7 +270,10 @@ Lychee,https://lycheeorg.github.io/,An open-source self-hosted photo-management 
 LyX,https://lyx.org/,An open-source (and offline) document processor using TeX/LaTeX.,Productivity
 Magic-Wormhole,https://magic-wormhole.readthedocs.io,"This package provides a library and a command-line tool named wormhole, making it possible to get arbitrary-sized files and directories (or short pieces of text) from one computer to another.",Files
 Mailbox,https://mailbox.org/,"Secure, ad-free e-mail, online office and cloud storage.",Email services
-Mailfence,https://mailfence.com,Email service that offers OpenPGP based end-to-end encryption and digital signatures. It,Email services
+Mailfence,https://mailfence.com,"Secure and private email service.",Email services
+Mailfence,https://blog.mailfence.com/secure-online-mailfence-calendar, "Secure and private calendar (Web, ActiveSync, CalDAV).",Email services
+Mailfence,https://blog.mailfence.com/secure-file-sharing,"Secure and private document management (Web, WebDAV).",Email services
+Mailfence,https://blog.mailfence.com/mailfence-groups,"Secure and private workspaces.",Email services
 Mailpile,https://mailpile.is/,A free and open-source email client with the main focus of privacy and usability.,Email services
 "Mailspring",https://getmailspring.com/,"Open-source email with advanced search, translation, spellcheck and more.",Email services
 MALP,https://gitlab.com/gateship-one/malp/-/blob/master/README.md,A remote control for the music player daemon.,Entertainment
